@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cmatskas
-- 👀 I’m interested in coding, security, weighlifting and TV
+- 👋 Hi, I’m Christos Matskas (aka @cmatskas)
+- 👀 I’m interested in coding, security, weighlifting and movies
 - 🌱 I’m currently learning Python, Kotlin, Kubernetes and Security
 - 💞️ I’m looking to collaborate on fun projects and help developer write better, more secure software
 - 📫 How to reach me? On so many places
